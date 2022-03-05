@@ -20,11 +20,22 @@
 
                 <?php include("couverture.php") ?>
 
+                <?php include("presentation.php") ?>
+
+                <?php include("version.php") ?>
+
+                <?php include("securite.php") ?>
+
                 <?php include("port.php") ?>
 
-                <?php include("lien.php") ?>
+                <?php include("lien_officiel.php") ?>
+
+                <?php include("lien_article.php") ?>
 
                 <?php include("zeend.php") ?>
+
+                <?php include("pratique.php") ?>
+
 			</div>
 		</div>
 
